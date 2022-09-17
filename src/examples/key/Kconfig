@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_KEY
+	bool "key"
+	default n
+	---help---
+		Enable support for key
